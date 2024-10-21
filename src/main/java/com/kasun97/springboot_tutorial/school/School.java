@@ -1,6 +1,7 @@
-package com.kasun97.springboot_tutorial;
+package com.kasun97.springboot_tutorial.school;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.kasun97.springboot_tutorial.student.Student;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

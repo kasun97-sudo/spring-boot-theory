@@ -1,6 +1,8 @@
-package com.kasun97.springboot_tutorial;
+package com.kasun97.springboot_tutorial.student;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.kasun97.springboot_tutorial.school.School;
+import com.kasun97.springboot_tutorial.studentprofile.StudentProfile;
 import jakarta.persistence.*;
 
 @Entity

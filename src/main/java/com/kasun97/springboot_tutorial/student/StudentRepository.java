@@ -1,4 +1,4 @@
-package com.kasun97.springboot_tutorial;
+package com.kasun97.springboot_tutorial.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
