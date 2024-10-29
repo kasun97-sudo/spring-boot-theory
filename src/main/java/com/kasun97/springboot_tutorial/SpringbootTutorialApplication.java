@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-// 5:34
+// 6:41
 @SpringBootApplication
 public class SpringbootTutorialApplication {
 
